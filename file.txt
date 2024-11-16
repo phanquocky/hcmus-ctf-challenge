@@ -3300,3 +3300,4 @@ HCMUS-CTF{commit_number_2301}
 HCMUS-CTF{commit_number_2302}
 HCMUS-CTF{commit_number_2303}
 HCMUS-CTF{commit_number_2304}
+HCMUS-CTF{commit_number_2305}
