@@ -3019,3 +3019,4 @@ HCMUS-CTF{commit_number_2020}
 HCMUS-CTF{commit_number_2021}
 HCMUS-CTF{commit_number_2022}
 HCMUS-CTF{commit_number_2023}
+HCMUS-CTF{commit_number_2024}
