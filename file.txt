@@ -1307,3 +1307,4 @@ HCMUS-CTF{commit_number_308}
 HCMUS-CTF{commit_number_309}
 HCMUS-CTF{commit_number_310}
 HCMUS-CTF{commit_number_311}
+HCMUS-CTF{commit_number_312}
