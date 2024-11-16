@@ -1699,3 +1699,4 @@ HCMUS-CTF{commit_number_700}
 HCMUS-CTF{commit_number_701}
 HCMUS-CTF{commit_number_702}
 HCMUS-CTF{commit_number_703}
+HCMUS-CTF{commit_number_704}
