@@ -1387,3 +1387,4 @@ HCMUS-CTF{commit_number_388}
 HCMUS-CTF{commit_number_389}
 HCMUS-CTF{commit_number_390}
 HCMUS-CTF{commit_number_391}
+HCMUS-CTF{commit_number_392}
