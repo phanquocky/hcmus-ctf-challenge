@@ -1,0 +1,1 @@
+I accidentally pushed the flag to GitHub, and I quickly deleted it and pushed another commit. Is the flag still there?
