@@ -7697,3 +7697,4 @@ HCMUS-CTF{commit_number_6700}
 HCMUS-CTF{commit_number_6701}
 HCMUS-CTF{commit_number_6702}
 HCMUS-CTF{commit_number_6703}
+HCMUS-CTF{commit_number_6704}
