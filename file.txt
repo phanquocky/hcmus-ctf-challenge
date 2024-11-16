@@ -1500,3 +1500,4 @@ HCMUS-CTF{commit_number_501}
 HCMUS-CTF{commit_number_502}
 HCMUS-CTF{commit_number_503}
 HCMUS-CTF{commit_number_504}
+HCMUS-CTF{commit_number_505}
